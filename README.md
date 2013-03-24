@@ -1,4 +1,5 @@
-sharenotes
-==========
+scala-appengine
+===============
 
-Share Notes
+scala google app engine template
+
